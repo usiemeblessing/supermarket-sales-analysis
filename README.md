@@ -5,7 +5,7 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 
-> An end-to-end retail sales analytics project using **Python, MySQL, Microsoft Excel, and Power BI** to analyze sales performance, customer behaviour, regional trends, and product performance for a fictional retail company, **ShopEase Nigeria**.
+> A comprehensive supermarket sales performance analytics project using **Microsoft Excel** to analyze sales performance, customer behaviour, regional trends, and product performance for a fictional retail company, **ShopEase Nigeria**.
 
 ![Dashboard Preview](visuals/supermarket-sales-performance-excel-dashboard-overview.png)
 
