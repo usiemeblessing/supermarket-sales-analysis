@@ -7,7 +7,7 @@
 
 > An end-to-end retail sales analytics project using **Python, MySQL, Microsoft Excel, and Power BI** to analyze sales performance, customer behaviour, regional trends, and product performance for a fictional retail company, **ShopEase Nigeria**.
 
-![Dashboard Preview](visuals/supermarket-sales-performance-excel-dashboard-overview.jpg)
+![Dashboard Preview](visuals/supermarket-sales-performance-excel-dashboard-overview.png)
 
 ---
 
@@ -91,7 +91,7 @@ This analysis answers the following questions:
 
 ### Excel Dashboard
 
-![Excel Dashboard](visuals/excel-dashboard-overview.png)
+![Excel Dashboard](visuals/supermarket-sales-performance-excel-dashboard-overview.png)
 
 ---
 
